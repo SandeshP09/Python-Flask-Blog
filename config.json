@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/firstblog",
+    "prod_uri": "mysql://root:@localhost/firstblog",
+    "blog_name": "First Blog",
+    "tag_line": "A Blog to test the first Web page",
+    "about_text": "Hi my name is Sandesh and i create and post news and research about the Indian financial markets",
+    "no_of_posts": 1,
+    "admin_user":"Sandesh",
+    "admin_password": "Sandesh123",
+    "upload_location": "C:\\Users\\Sandesh\\PycharmProjects\\LearningFlask\\static"
+  }
+}
